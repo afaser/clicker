@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-Skuf's brewery-1.0";
+const cacheName = "DefaultCompany-Skuf's brewery-1.0.0.1";
 const contentToCache = [
     "Build/WebGL.loader.js",
     "Build/WebGL.framework.js",
